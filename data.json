@@ -1,0 +1,23 @@
+{    
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=789849297813897227&permissions=104197697&scope=bot",
+    "vote": "https://discordbotlist.com/bots/nen/upvote",
+    "support": "https://discord.gg/4FQBzWHkuA",
+    
+    "prefix": ["N.", "n."],
+
+    "superids": [
+        
+    ],
+
+    "bannedids": [
+        
+    ],
+
+    "dev_channels": [
+        
+    ],
+
+    "pseudo_nsfw": [
+        
+    ]
+}
